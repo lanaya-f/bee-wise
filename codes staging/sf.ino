@@ -1,3 +1,4 @@
+//NOT FFT!!!
 #include <Arduino.h>
 
 const int MIC_PIN = 34;
